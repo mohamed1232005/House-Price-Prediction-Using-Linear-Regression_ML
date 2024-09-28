@@ -65,7 +65,7 @@ After training the model, several evaluation metrics were calculated to assess i
 
 #### Finally :
 
-8. Conclusion
+
 This project implemented a simple yet effective linear regression model to predict house prices based on square footage, number of bedrooms, and number of bathrooms. While the model achieved a reasonable performance with an R² of 0.63 and an MAE of approximately $35,788, there is room for improvement by:
 
 - **Incorporating additional features (e.g., location, year built, etc.)**
