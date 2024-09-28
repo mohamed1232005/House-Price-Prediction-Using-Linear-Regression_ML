@@ -54,7 +54,7 @@ Linear regression is ideal for this task because it is a simple yet effective al
 - **The input features were GrLivArea, BedroomAbvGr, and FullBath. The target variable was SalePrice.**
 
 
-** Evaluation Metrics**:
+**Evaluation Metrics**:
 After training the model, several evaluation metrics were calculated to assess its performance:
 
 - **Mean Squared Error (MSE): Measures the average squared difference between actual and predicted values. Lower values are better.**
