@@ -1,5 +1,5 @@
-# PRODIGY_ML_01
-## House Price Prediction Using Linear Regression
+
+# House Price Prediction Using Linear Regression
 ### 1- Project Overview
 This project contains implementation and evaluation of a linear regression model to predict house prices based on three key features: square footage (GrLivArea), number of bedrooms (BedroomAbvGr), and number of full bathrooms (FullBath). The dataset used in this project is derived from the House Prices: Advanced Regression Techniques competition on Kaggle.
 
